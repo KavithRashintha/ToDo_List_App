@@ -1,0 +1,13 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: darkslateblue;
+}
+
+.title{
+  margin: 0;
+  text-align: center;
+  font-size: 3.5vw;
+  color: white;
+  padding: 30px 0 0 0;
+}
